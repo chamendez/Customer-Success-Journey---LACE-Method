@@ -1,0 +1,1 @@
+function show(p,s){document.getElementById('bar').style.width=p+'%';document.getElementById('content').innerHTML='<h2>'+s+'</h2><p>Journey stage details.</p>';}
